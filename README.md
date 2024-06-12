@@ -13,7 +13,7 @@
 
 Nesse projeto foi desenvolvido um aplicativo web para calcular o IMC, basta fornecer a altura e o peso para realizar o cálculo.
 
-Link de acesso - <a href="https://rocketnotes02.netlify.app/">CalculadoraIMC</a>
+Link de acesso - <a href="https://calc-imc01.netlify.app/">CalculadoraIMC</a>
 
 Projeto desenvolvido durante o Curso Explorer da **Rocketseat**.
 
