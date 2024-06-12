@@ -1,7 +1,7 @@
 <h2 align="center">Calculaddora IMC</h2>
 
 <h1 align="center">
-    <img width="600px" alt="CalculadoraIMC" title="#CalculadoraIMC" src="https://github.com/freitasbr01/rocketnotes-front/blob/main/src/assets/rocketnotes2.png" />
+    <img width="600px" alt="CalculadoraIMC" title="#CalculadoraIMC" src="https://github.com/freitasbr01/CalculadoraIMC/blob/main/assets/calculadora.png" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 💻 Sobre o projeto
 
-Nesse projeto foi desenvolvido um aplicativo web para criar notas. A plataforma permite aos usuários criar uma conta pessoal onde podem acessar e personalizar sua própria lista de notas. Oferece também a funcionalidade de atribuir tags a cada nota que o usuário criou.
+Nesse projeto foi desenvolvido um aplicativo web para calcular o IMC, basta apenas fornecer a altura e o peso para realizar o cálculo.
 
 Link de acesso - <a href="https://rocketnotes02.netlify.app/">CalculadoraIMC</a>
 
