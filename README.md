@@ -1,4 +1,4 @@
-<h2 align="center">Calculaddora IMC</h2>
+<h2 align="center">Calculadora IMC</h2>
 
 <h1 align="center">
     <img width="600px" alt="CalculadoraIMC" title="#CalculadoraIMC" src="https://github.com/freitasbr01/CalculadoraIMC/blob/main/assets/calculadora.png" />
